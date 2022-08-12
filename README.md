@@ -1,6 +1,5 @@
 # Jogo da Forca em Portugol Studio 🎮
 
-![GitHub repo size](https://img.shields.io/github/repo-size/enzocandido/jogo-da-forca-portugol?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/enzocandido/jogo-da-forca-portugol?style=for-the-badge)
 
 <img src="home.png" alt="Tela Inicial do Jogo">
@@ -43,6 +42,3 @@ O projeto ainda se encontra com alguns bugs, feche e abra novamente se estiver c
 ```
 Edite o arquivo jogo.txt para adicionar/alterar palavras e dicas.
 ```
-
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
