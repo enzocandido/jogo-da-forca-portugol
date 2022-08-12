@@ -1,0 +1,193 @@
+P: Gato
+D: Possui quatro patas
+D: São mamíferos
+D: Ótima audição
+P: Metrô
+D: É extenso
+D: É rápido
+D: Atravessa cidades
+D: Para em estações
+P: Boné
+D: É um acessório
+D: Possuí tamanhos variados
+P: Camiseta
+D: Possuí diversas cores
+D: Diversas Marcas
+D: Diversos tamanhos
+P: Mouse
+D: É um periférico do computador
+D: Possuí várias marcas
+D: Pode ser usado via bluetooth
+D: É pequeno
+P: Notebook
+D: Usa internet para pesquisar
+D: Possuí tela e teclado
+D: É portátil
+P: Bola
+D: É pequena
+D: Possuí pesos diferentes
+D: Usada em esportes
+D: Diversos modelos
+P: Sorvete
+D: É gelado
+D: É doce
+D: Perfeito em dias quentes
+P: Cama
+D: Possuí diversos tamanhos
+D: Encontra-se em quartos
+D: É macia
+P: Shampoo
+D: Usado no banho
+D: Causa irritação quando cai no olho
+P: Cebola
+D: Serve como tempero
+D: Cheiro forte
+D: Nos faz chorar
+P: Fotos
+D: Está presente nos quadros
+D: Registro de um momento
+P: Caderno
+D: Alguns possuem linhas e outros não
+D: Usamos para escrever
+D: Faz parte do material escolar
+D: Centenas de folhas
+P: Mesa
+D: Usamos em refeições
+D: Existem diversos tipos
+D: Usada para por objetos
+P: Martelo
+D: Utilizado em contruções
+D: Possuí tamanhos diferentes
+D: Pode machucar o dedo 
+P: Lâmpada
+D: Acaba com a escuridão
+D: Pode ser pequena ou grande
+D: É frágil
+D: Possí vidro
+P: Cadeira
+D: Tem quatro pés
+D: Usada na cozinha
+P: Bar
+D: Local para se distrair
+D: Possui bebidas
+D: Jogos de futebol são transmitidos
+P: Geladeira
+D: Armazena alimentos
+D: Conta com refrigeração
+D: É pesada
+D: Algumas possuem freezer
+P: Tênis
+D: Usamos nos pés
+D: Diversos tamanhos
+P: Flores
+D: São perfumadas
+D: Existem muitas espécies
+D: Crescem em vasos
+P: Tapate
+D: Fica no chão
+D: Existem tamanhos diferentes
+P: Pix
+D: É uma forma de pagamento
+D: É digital
+D: Diversos valores
+D: Usado no mundo inteiro
+P: Canete
+D: Possuí cores diferentes
+D: Utilizado em escritas
+P: Carteira
+D: Cabe no bolso
+D: Possuí diversos tamanhos
+D: Utilizado no dia a dia
+P: Janela
+D: Pode existir em vários lugares da casa
+D: Pequena ou grande
+D: Está nas parede
+D: Possuí vidro
+P: Faca
+D: Manuseado para fazer cortes
+D: Utensílio de cozinha
+D: Pode ser perigosa
+P: Barco
+D: Meio de transportes
+D: Só é usado na água
+D: Possuí casco
+D: Possui âncora
+P: Cofre
+D: Tem diversos botões
+D: Bancos usam
+P: Gasolina
+D: Obtida a partir do petróleo bruto
+D: Utilizada em veículos e máquinas
+D: EUA é o país que mais fábrica
+D: O responsável por colocar é o frentista
+P: Papel
+D: Está presente nos livros
+D: É fino
+D: É leve
+P: Livros
+D: Contém histórias
+D: Pode grande
+P: Argentina
+D: É um país
+D: Onde Messi joga
+D: Ganhou a copa de 1986
+D: Sua capital é Buenos Aires
+P: Perfume
+D: Contém álcool
+D: Utilizado para dar um cheiro bom a quem usa
+D: Importados são caros
+P: Risada
+D: Ouvir uma piada provoca isso
+D: É o antônimo de choro
+P: Camarão
+D: Vive no mar
+D: É pequeno
+D: Filo dos artrópodes
+D: Podem ser ingeridos
+P: Cavalo
+D: Utilizamos cela para montar
+D: É utilizado pelas equipes que jogam Polo
+D: Usa ferradura
+D: Normalmente vive em espaços amplos e abertos
+P: Iphone
+D: É frágil
+D: Dispositivo eletrônico
+D: É caro
+P: Prato
+D: Alimentos ficam sobre ele
+D: Fica na cozinha
+P: Chuveiro
+D: Fica no banheiro
+D: Gera vapor
+D: Possui estado quente para a água em dias frios
+P: Escada
+D: Nos leva a algum lugar
+D: Pode subir ou descer
+D: No shopping são rolantes
+P: Garrafa
+D: Pode ser de vidro
+D: Pode ser de plástico
+D: Diferentes tamanhos
+P: Quadra
+D: Espaço esportivo
+D: Pode ter grades ao redor
+D: Normalmente existe ao ar livre
+D: Geralmente fica lotada em domingos
+P: Sal
+D: Usado em alimentos
+D: No Brasil o mais comum em receitas é o refinado
+P: Esmalte
+D: Diversas cores
+D: Usado em unhas
+D: Pode ser caro
+P: Pneu
+D: Presente em carros
+D: Diferentes tamanhos
+P: Lua
+D: visível de noite
+D: Satélite natural da Terra
+D: Gira em torno da Terra
+P: Abelhas
+D: Produtoras de mel
+D: Moram em colmeias
+D: Podem ferroar
